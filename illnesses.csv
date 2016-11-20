@@ -1,0 +1,100 @@
+Acne Vulgaris,"Papule,Pustule,Nodule,Cyst,Comedo,Skin lesion",Dermatology,General-Skin,no,no
+AIDS,"Candidiasis,Paresthesia,Opportunistic infection,Cervical cancer,ComaVision loss,Mouth ulcer,Fever,Skin rash,Bacterial vaginosis,Weight loss,Anorexia,Dysphagia,Fatigue,Abscess,Forgetfulness,Mental confusion,Vomiting,Headache,Nausea,Kaposi's sarcoma,Abdominal pain,Immunodeficiency,Skin lesion,Vital Exhaustion,Night Sweats,Postural instability,Pelvic inflammatory disease,Diarrhea,Cough,Seizure,Low-grade fever",Immunology,General,no,yes
+"Allergy,Common","Rhinitis,Dyspnea,Bloating,Wheals ,Asthma,Abdominal pain,Skin rash,Sinusitis ,Diarrhea ,Allergic conjunctivitis,Vomiting,SneezeCough","Allergology,Immunology",General,no,yes
+Alzheimer Disease,"Apraxia,Aggression,Pathological laughing and crying,Hirano body,Urinary incontinence,Delusional misidentification syndrome,Loss of smell,Paraphasia,Agnosia,Sundowning,Amnesia,Wandering,Irritability",Neurology,Head,no,no
+"Anemia,Iron-Deficiency","Dyspnea,Clouding of consciousness,Menorrhagia,Palpitation,Malaise,Depression,Glossitis,Pruritus,Pallor,Fasciculation,Pica,Cardiac arrhythmiaAnorexiaKoilonychiaFatigueRestless legs syndromeAngular cheilitisSleep apneaIrritabilitySomnolenceAlopeciaSyncopeConstipationTinnitus",Hematology,General,no,no
+Anorexia Nervosa,"Extreme Weight Loss,Emaciation,Xeroderma,Fatigue,Immunosuppression,Stunted growth,BruiseCold sensitivity,Headache,SyncopeWater-electrolyte imbalance,Osteoporosis",Psychiatry,Head,no,no
+Antisocial Personality Disorder,"Impulsivity,Dysphoria ,Disregard for right and wrong ,Lack of empathy ,Aggression,Lack of Remorse,Substance-related disorder,Pseudologia fantastica,Narcissism",Psychiatry,Head,no,no
+Arthritis,"Dyspnea,Night Sweats,Pain,Fatigue,Fever,Skin rash,Stiffness,Weight loss,Swelling",Rheumatology,"Legs,Arms",no,no
+Attention Deficit Disorder with Hyperactivity,"Boredom,Hyperactivity,Lack of Concentration,Carelessness,Impulsivity,Verbosity",Psychiatry,General,no,no
+Autistic Disorder,"Self-harm,Restricted behavior,Stereotypy,Ritualistic behavior,Compulsive behavior",Psychiatry,General,no,no
+Baldness,Itchy scalp,Dermatology,"Head,General",no,no
+Brain Injuries,Quadriplegia,"Neurology,Neurosurgery",Head,no,no
+Brain Tumor,"Nausea,Diplopia,Blurred vision,Hearing problem,Tunnel vision,Speech disorder,Hormonal disorders,Balance disorder,Mental confusion,Vomiting,Personality or behavior changes,Headache,Seizure","Neurology,Neurosurgery",Head,no,yes
+Breast Cancer,"Breast lump,Paget's disease of the breast,Nipple discharge,Nipple tenderness,Phyllodes tumor,Inverted nipple",Oncology,upper body,yes,yes
+"Bronchitis,Acute","Cough,Production of mucus (sputum),Fatigue,Shortness of breath,Slight fever chills,Chest discomfort",Otorhinolaryngology,"Head,General",no,no
+Cancer (general),"cerebella tumor,Medulloblastoma",Oncology,General,no,yes
+Candidiasis,"Blister,Skin rash,Vaginal tenderness","Immunology,Microbiology","General,Genitals",no,no
+Cardiovascular Diseases,"Dyspnea,Dizziness,Palpitation,Fever,Peripheral edema,Hypertension,Chest pain,Angina Pectoris,Chronic cough,Bradycardia,Cardiac arrhythmia,Fatigue,Cyanosis,Tachycardia,Syncope,Headache,Dry cough,Chest Tightness",Cardiology,Upper Body ,no,no
+Carpal Tunnel Syndrome,"Paresthesia,Pain,Muscle weakness",Orthopaedics,"Arms,Legs",no,no
+Celiac Disease,"Failure to thrive,Fatigue,Mouth ulcer,Stunted growth,Diarrhea,Anemia,Weight loss",Internal medicine,General,no,no
+Cervical Cancer,"Pelvic pain,Vaginal bleeding,Increased vaginal discharge,Dyspareunia",Gynecology,"General,Genitals",yes,yes
+Colorectal Cancer,"Dyspnea,Narrow stools,Fatigue,Abdominal pain,Melena,Diarrhea,Change in bowel habits,Constipation,Weight loss,Hematochezia",Internal medicine,"General,lower body",no,yes
+Crohn Disease,"Autoimmune hemolytic anemia,Scleritis,Fever,Depression,Skin rash,Myopathy,Weight loss,Failure to thrive,Uveitis,Arthritis ,Gingivitis,Anorexia,Flatulence,Dysphagia,Fatigue,Enthesitis ,Vomiting,Headache,Hematochezia,Anal fissure,Joint pain,Pyoderma gangrenosum,Bloating,Nausea ,Peripheral neuropathy,Abdominal pain,Skin ulcer,Stroke,Diarrhea,Erythema nodosum,Constipation,Unintentional Weight Loss,Seizure","Internal medicine,Microbiology","General,lower body",no,no
+Dehydration,"Enophthalmia,Nausea,Dizziness,Hypotension,Xeroderma,Xerostomia,Fatigue,Lethargy,Polydipsia,Somnolence,Syncope ,Xerophthalmia",Internal medicine,General,no,yes
+Dermatitis,"Blister,Papule,Skin rash,Dandruff,Pruritus,Skin lesion",Dermatology,General-Skin,no,no
+Diabetes Mellitus,"Polyphagia,Acanthosis nigricans,Hyperglycemia,Weight gain,Fatigue,Polydipsia,Glycosuria,Poor wound healing,Blurred vision,Polyuria,Weight loss","Internal medicine,Endocrinology",General,no,no
+"Diabetes Mellitus,Type 1","Polyphagia,Fatigue,Polydipsia,Blurred vision,Polyuria ,Weight loss","Internal medicine,Endocrinology",General,no,no
+Diverticulitis,"Bloating,Nausea,Tenderness,Anorexia,Rectal bleeding,Abdominal pain,Fever,Diarrhea,Vomiting,Constipation,Hematochezia",Internal medicine,"General,lower body",no,no
+Dyslexia,"Visual verbal agnosia,Speech disorder,Delayed reading ability,Phonological deficit","Psychiatry,Neurology",General,no,no
+Endometriosis,"Dysuria,Dysmenorrhea,Irregular menstruation,Infertility,Dyschezia ,Pelvic pain,Dyspareunia",Gynecology,"General,Genitals",yes,no
+Epilepsy,"Tonic–clonic seizure,Blank Stare,Mental confusion,Loss Of Consciousness","Psychiatry,Neurology",General,no,no
+Gastroesophageal Reflux,"Dysphagia,Dysphonia,Heartburn,Burning Chest Pain,Dry cough,Sore throat",Gastroenterology,"General,upper body",no,no
+Heart Failure,"Dyspnea,Dizziness,Nocturia,Orthopnea,Cardiac asthma,Cyanosis,Peripheral edema,Anasarca,Mental confusion,Crackles,Hepatomegaly,Coagulopathy",Cardiology,"General,Upper Body",no,yes
+Heat Stroke,"Cramp,Coma,Tachypnea,Hyperthermia,Anhidrosis,Tachycardia,Hallucination,Headache,Flushing",Cardiology,"General,Upper Body",no,yes
+Hemorrhoids,"Pain,Anal swelling,Pruritus ani,Hematochezia",Internal medicine,"General,lower body",no,no
+Herpes Simplex,"Perianal pain,Mouth ulcer,Fever,Rebound tenderness,Leg pain,Muscle pain,Genital area pain,Proctitis,Dysuria,Genital ulcer,Abnormal vaginal discharge,Asymptomatic,Headache,Pruritus ani,Oral infection,Low-grade fever,Anal fissure","Microbiology,Immunology",General,no,no
+HIV,"Lymphadenopathy,Headache,Flu-like symptoms,Pyrexia,Fatigue,Fever","Microbiology,Immunology",General,no,yes
+Hyperglycemia,"Frequent urination,Increased thirst,Blurred vision,Fatigue,Headache","Internal medicine,Endocrinology",General,no,no
+Hypertension,"Dizziness,Asymptomatic,Headache,Nosebleed",Cardiology,General,no,no
+Hyperthyroidism,"Dyspnea,Nausea,Thyrotoxicosis,Sweating,Depression,Tremor,Insomnia,Chorea,Polyuria,Weight loss,Cardiac arrhythmia,Pretibial myxedema,Fatigue,Irritability,Diarrhea,Tachycardia,Polydipsia,Vomiting,Alopecia,Goitre,Nervousness",Cardiology,General,no,no
+Infectious Mononucleosis,Fever,Microbiology,General,no,no
+Infertility,"Hormonal disorders,Irregular menstruation",Endocrinology,"General,Genitals",no,no
+"Infertility,Female","Hormonal disorders,Irregular menstruation",Endocrinology,"General,Genitals",yes,no
+"Infertility,Male",Hormonal disorders,Endocrinology,"General,Genitals",no,no
+"Influenza,Human","Watery eyes,Red eye,Fever,Malaise,Muscle weakness,Body ache,Cough,Headache,Chills,Itchy eyes","Otorhinolaryngology,Immunology","General,Head",no,no
+Irritable Bowel Syndrome,"Rectal tenesmus,Flatulence,Anorexia,Abdominal pain,Depression,Lethargy,Diarrhea,Constipation,Gastroesophageal reflux disease",Internal medicine,"General,lower body",no,no
+Kidney Stone,"Foul smelling urine,Nausea,Dysuria,Cloudy urine,Pain,Fever,Hematuria,Vomiting,Persistent urge to urinate,Chills",Urology,"General,lower body",no,no
+Leukemia,"Joint pain,Infection,Nausea",onkology,General,no,no
+Liver Tumour,"Nausea,Jaundice,Anorexia",oncology,General,no,no
+Lung Cancer,"Nail clubbing,Dyspnea,Cachexia,Dysphagia,Fatigue,Hemoptysis,Dysphonia,Wheeze,Cough,Chest pain",oncology,General,no,no
+"Lupus Erythematosus,Systemic","Fatigue,Fever,Malaise",Rheumatology,General,no,no
+Malaria,"Fever,Chills","Immunology,Microbiology",General,no,no
+"Menopause,Premature","Hot flash,Vaginal dryness,Irregular menstruation",Gynecology,General,no,no
+Migraine Disorders,Nausea,Neurology,Head,no,no
+Miscarriage,"Abdominal pain,Fever,Metrorrhagia",Gynecology,"General,lower body",no,no
+"Multiple Sclerosis,Chronic Progressive","Optic papillitis,Horner's syndrome,Dyspnea",oncology,Head,no,no
+"Multiple Sclerosis,Relapsing-Remitting","Optic papillitis,Horner's syndrome,Dyspnea",oncology,Head,no,no
+"Myelitis,Transverse","Dyspnea,Nausea,Sweating,Anxiety,Fatigue,Palpitation,Vomiting,Chest pain,Lightheadedness",general surgery,general,no,no
+Obesity,"Joint pain,Snoring,Back pain,Fatigue,Depression,Insomnia,Skin rash,Hyperhidrosis","dietitian,endocrinology",general,no,no
+Obsessive-Compulsive Disorder,"Intrusive thoughts,Sexual obsessions,Purely Obsessional OCD,Compulsive hoarding,Compulsive behavior",psychiatrist,general,no,no
+Osteoarthritis,"Joint pain,Edema,Stiffness,Bouchard's nodes,Muscle Spasms,Heberden's node,Bunion,Osteophyte,Crepitus",Orthopaedics,general,no,no
+"Osteoarthritis,Hip","Joint pain,Edema,Stiffness,Bouchard's nodes,Muscle Spasms,Heberden's node,Bunion,Osteophyte,Crepitus",Orthopaedics,lower body,no,no
+"Osteoarthritis,Knee","Joint pain,Edema,Stiffness,Bouchard's nodes,Muscle Spasms,Heberden's node,Bunion,Osteophyte,Crepitus",Orthopaedics,lower body,no,no
+Osteomyelitis,"Nausea,Lumbago,Sweating",Internal Disease,general,no,no
+Osteoporosis,"Back pain,Kyphosis,Loss of height","endocrinology,Internal Disease",general,yes,no
+Ovarian Cancer,"Pelvic pain,Dyspnea,Bloating",oncology,lower body,no,no
+Parkinson Disease,"Drooling,HypomimiaTremor,Hallucination,Akathisia,Akinesia,Weight loss,Intestinal pseudo-obstruction,Urinary incontinence,Loss of smell,Dementia,Nocturia,Ataxia,Postural instability,Gait abnormality,Micrographia,Dysphagia,Seborrheic dermatitis,Amnesia,Fatigue,Bradykinesia,Balance disorderDystoniaSomnolenceConstipation",neurology,general,no,no
+Peptic Ulcer,"Bloating,Nausea,Dizziness,Abdominal pain,Hiccup,HeartburnBlood in stool,Pallor,Anorexia,Fatigue,Hematemesis,Melena,Vomiting,Syncope,Unintentional Weight LossIndigestion",Gastroenterology,stomach,no,no
+Peripheral Vascular Diseases,"Arteriosclerosis,pInflammation",cardiovascular surgery,general,no,no
+Pneumonia,"Dyspnea,Sweating,Fatigue",pulmonologist,upper body,no,no
+Poliomyelitis,Flaccid paralysis,neurology,general,no,no
+Polycystic Ovary Syndrome,"Type 2 diabetes,Acanthosis nigricans,Amenorrhoea",gynaecology,lower body,no,no
+Posttraumatic stress disorder,"Flashback,InsomniaSelf-destructive behaviour,Irritability,Anger,Hypervigilance,Nightmare",psychiatrist,general,no,no
+Primary Myelofibrosis,"Dysuria,Post-void dribbling,Hematuria,Bladder spasm,Frequent urination,Urinary tract infection,Urinary retention","oncology,hematology",general,no,no
+Psoriasis,"Plaque,Erythema,Xeroderma",dermatology,general,no,no
+"Puberty,Delayed","Dyspnea,Sputum,Chronic cough,Asterixis,Tachypnea,Cyanosis,Wheeze,Barrel chest,Pursed lip breathing",endocrinology,general,no,no
+Renal Aminoacidurias,Fatigue,Endocrinology,general,no,no
+Restless Legs Syndrome,"Urge to move,Motor restlessness,Vague uncomfortable sensations",psychiatrist,lower part,no,no
+Rheumatic Diseases,"Joint pain,Vasculitis,Anorexia",rheumatology,general,no,no
+Rheumatic Fever,"Heart failure,Joint pain,Sydenham's chorea",rheumatology,general,no,no
+Ringworm,"Erythema,Scaly skin,Blister",dermatology,head,no,no
+Rosacea,"Ocular rosacea,Erythema,Rhinophyma",dermatology,"general,head",no,no
+Schizophrenia,"Dysphoria,Thought insertion,Avolition",psychiatrist,general,no,no
+Severe Acute Respiratory Syndrome,Fever,otorhinolaryngology,head,no,no
+Sexually Transmitted Diseases,Fever,"infectious dissease,gynaecology",lower body,no,no
+Sinusitis,"Nausea,Nasal congestion,Fever",otorhinolaryngology,head,no,no
+Skin Cancer,"Skin ulcer,Skin lesion,Melanocytic nevus","dermatology,oncology",General-Skin,no,no
+"Sleep Disorders,Circadian Rhythm",Sleep apnea,psychiatrist,general,no,no
+Stomach Cancer,"Bleeding,Bloating,Nausea",oncology,lower body,no,no
+Streptococcal Infections,"Nausea,Abdominal pain,Malaise",infectious disease,general,no,no
+Sunburn,"Warm skin,Erythema,Pain",dermatology,general,no,no
+Syphilis,"Lymphadenopathy,Mouth ulcer,Fever","infectious dissease,gynaecology",lower body,no,no
+Tennis Elbow,"Pain,Joint stiffness,Fever",orthopedist,"arms,upper body",no,no
+Testicular Cancer,"Swollen testicle,Lumbago,Painless testicular lump",urology,lower body,no,no
+Tuberculosis,"Dyspnea,Chronic cough,Night Sweats",immunology,general,no,no
+Tyrosinemias,"Dysuria,Anorexia,Back pain,Abdominal pain,Hematuria,Frequent urination","internal medicine,osteoporosis",lower body,no,no
+Urinary Tract Infections,"Urethritis,Urinary urgency,Dysuria",urology,lower body,no,no
+Varicose Veins,"Heavy legs,Restless legs syndrome,Stasis dermatitis",vascular surgery,legs,no,no
+Vertigo,"Nausea,Vision disorder,Muscle weakness,Difficulty walking,Vomiting,Syncope,Decreased level of consciousness",neurology,head,no,no
+Yellow Fever,"Bleeding,Nausea,Jaundice,Back pain,Fever,Constipation,Headache,Chills",immunology,general,no,no
